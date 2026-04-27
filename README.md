@@ -4,8 +4,7 @@ I'm an **Artificial Intelligence Engineering** student at TOBB University of Eco
 
 ## 🔬 What I've been working on
 
-- **NLP & NER** — Fine-tuned Transformer-based models for Named Entity Recognition and text classification on medical radiology reports (TEKNOFEST 2024, ranked 6th in Turkey)
-- Co-authored a paper on LLM-based data augmentation for Turkish NER, accepted at IEEE SIU 2025
+- **NLP** — Fine-tuned Transformer-based models for Named Entity Recognition and text classification on medical radiology reports (TEKNOFEST 2024, ranked 6th in Turkey); co-authored an accepted paper at IEEE SIU 2025 on LLM-based data augmentation for Turkish NER
 - **Computer Vision** — Object detection model fine-tuning, deployment pipelines, and inference optimization via quantization & probing
 - **Image-to-Math** — Building a deep learning model that synthesizes executable Python code from complex mathematical visual patterns
 
