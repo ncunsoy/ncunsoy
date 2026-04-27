@@ -1,6 +1,6 @@
 # Hi, I'm Nazlı Ceyda 👋
 
-I'm an **Artificial Intelligence Engineering** student at TOBB University of Economics and Technology, passionate about NLP, computer vision, and building things that actually work in production.
+I'm an **Artificial Intelligence Engineering** student at TOBB University of Economics and Technology, passionate about machine learning, deep learning, and applying them to real problems — from NLP and computer vision to quantitative finance.
 
 ## 🔬 What I've been working on
 
